@@ -36,12 +36,13 @@ p {
 
 .paragraph-one {
     position: relative;
+    margin-top: -80px;
     top: 30px;
 }
 
 .paragraph-one-img {
     position: relative;
-   /* float: right;*/
+   float: right;
     max-width: 350px;
     width: 100%;
     height: auto;
