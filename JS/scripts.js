@@ -1,1 +1,3 @@
-document.querySelector('my-vid').defaultPlayRate = 2;
+//document.querySelector('#my-vid').PlaybackRate = 0.5;
+
+ScrollReveal().reveal('.headline');
